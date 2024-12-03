@@ -1,0 +1,30 @@
+,importance
+Tenure,0.24067345680716606
+CashbackAmount,0.09308468831642122
+Complain,0.07596275830567384
+WarehouseToHome,0.07037828913436528
+NumberOfAddress,0.07020318022895095
+DaySinceLastOrder,0.06690915894759722
+OrderAmountHikeFromlastYear,0.054213604163806925
+SatisfactionScore,0.04177529713076445
+NumberOfDeviceRegistered,0.036067886520842245
+OrderCount,0.031090894679268236
+CouponUsed,0.026457006849886645
+CityTier,0.02482797622196301
+PreferedOrderCat_Mobile Phone,0.01803815844976236
+HourSpendOnApp,0.01621173585604004
+PreferedOrderCat_Laptop & Accessory,0.015335095142436101
+PreferredPaymentMode_E wallet,0.013278523120913321
+PreferredPaymentMode_Credit Card,0.01251896164862816
+PreferredLoginDevice_Computer,0.012121970038535393
+PreferredLoginDevice_Mobile Phone,0.011937877034802272
+PreferredPaymentMode_COD,0.011803724260678987
+PreferredPaymentMode_Debit Card,0.009999897913718851
+PreferedOrderCat_Mobile,0.009584786818062343
+PreferedOrderCat_Fashion,0.009043600189714316
+PreferredLoginDevice_Phone,0.00790927836328968
+PreferredPaymentMode_UPI,0.005315540368835092
+PreferedOrderCat_Grocery,0.004883866294991011
+PreferredPaymentMode_CC,0.003797498482466918
+PreferredPaymentMode_Cash on Delivery,0.0035607467682232624
+PreferedOrderCat_Others,0.0030145419421958243
